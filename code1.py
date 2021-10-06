@@ -1,3 +1,4 @@
-print ("this is my first repo")
+def func(a, b):
+    return a + b
 
 
